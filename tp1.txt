@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-SDFGHJK.?NBVN?.?NB
-hello les amiex !!
-=======
-SDFGHJK.?NBVN?.?NB modifié
->>>>>>> de24baf763ce9b7607b4a1c94e2d345c99ffa8c2
+test1
