@@ -1,2 +1,6 @@
 SDFGHJK.?NBVN?.?NB
+<<<<<<< HEAD
 zineb
+=======
+hello les amiex !!
+>>>>>>> 045d34ab5a1fc5bfc854798fade85b734a233380
